@@ -19,7 +19,7 @@ The objective of Raze Network is to enable cross-chain privacy-preserving paymen
 
 #### Team Interest
 
-The Raze Network team has deep knowledge of zero-knowledge algorithms and applied zkSNARK techniques to Ethereum platform. Our team also has seasoned experience in trustless zkSNARK schemes with almost constant size proofs, efficient proof generation and verification. The background of the team members consists of both engineering and academic talents.
+The Raze Network team has deep knowledge of zero-knowledge algorithms and applied zkSNARK techniques to Ethereum platform. Our team also has lots of experience in designing and implementing trustless zkSNARK schemes. The background of the team members consists of both engineering and academic talents.
 
 Substrate is a new and promising platform to implement the privacy protocol and leverage the cross-chain features to achieve state-of-the-art privacy solutions to all the DeFi applications. Thus, we are confident that we have the capability to bring more privacy contributions to the Substrate framework as well.
 
@@ -89,7 +89,7 @@ The purpose of this grant is to deliver Raze Substrate Modules and cross-chain b
 
 ## Team :busts_in_silhouette:
 ### Team Members
-
+* Justin Kellison - Project Lead/CMO
 * Ryuhei Matsuda - Blockchain Specialist
 * Jark Ling - Full-stack Developer
 * Micheal Andersen - Full-stack Developer
@@ -103,6 +103,10 @@ The purpose of this grant is to deliver Raze Substrate Modules and cross-chain b
 * Digital Asset Investment Management Ltd. is a company registered in Cayman Islands.
 
 ### Team Experience
+
+#### Justin Kellison 
+
+Justin is an active marketer in the crypto industry from 4 years, and has worked for a few multi-million dollar DeFi projects. He (and his professional marketing team) has increased product visibility and has shown good results.
 
 #### Ryuhei Matsuda
 
